@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /achieve/
-Disallow:
 
 Sitemap: https://highlevellogic.github.io/achieve/sitemap.xml
